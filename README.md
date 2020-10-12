@@ -1,2 +1,2 @@
-# kpis.github.io
+# legendum.github.io
 Documentation for kpis.page
